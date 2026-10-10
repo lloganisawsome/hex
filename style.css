@@ -3,3 +3,5 @@
 .verified-download{display:block;margin:0 0 22px;width:fit-content;font-weight:700;font-size:14px}
 
 .build-capture img{display:block;width:100%;height:auto;border:1px solid var(--line)}
+
+.platform-downloads{display:grid;gap:12px}.platform-downloads .button{gap:14px;font-size:14px;line-height:1.4;text-align:left}

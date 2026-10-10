@@ -1,91 +1,155 @@
 {
   "schema_version": 1,
-  "version": "0.4.0",
-  "platform": "macos-arm64",
-  "release_notes": "Customization Lab: 414 parts, 13 engine configurations, unrestricted XYZ placement, exact-model previews, functional connections, multiple powertrains, live statistics and undo/redo. Six vehicles and existing saves preserved.",
+  "version": "0.4.1",
+  "platform": "desktop",
+  "release_notes": "Universal Mac (Intel and Apple Silicon) and Windows 64-bit builds. Platform-aware verified updates. Includes the full 414-part Customization Lab.",
   "artifacts": {
     "macos": {
-      "filename": "HEX-Motor-Studio-Customization-macOS.zip",
-      "size": 125797283,
-      "sha256": "18aadc4078616012f4fba01962c971775741bbb57d221d1f2c4a58dbc4610797",
+      "filename": "HEX-Motor-Studio-0.4.1-macOS-universal.zip",
+      "size": 113154370,
+      "sha256": "978c169e690abfa8828afab798e7d88c3ecf2a5ffbb6b74b99a7560dcc8cac32",
       "chunks": [
         {
-          "path": "downloads/hex-0.4.0-macos.000.bin",
+          "path": "downloads/hex-0.4.1-macos.000.bin",
           "size": 8388608,
-          "sha256": "b4c16f934afda94b91fb11c0cfe34a2d77e6e5962347a351767149a2a5e60263"
+          "sha256": "2f72bc86ed7814db6a8d6ee059785203a9c67e324c4f56c011500ca7523213f7"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.001.bin",
+          "path": "downloads/hex-0.4.1-macos.001.bin",
           "size": 8388608,
-          "sha256": "e78432c9c1e29599f24faa63c57d74f8c670effee9f37262f7a0f6d03613141d"
+          "sha256": "51ae6388d11ed1da944b9022a9da15fc152d88b450f614a964e7e78097178b5f"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.002.bin",
+          "path": "downloads/hex-0.4.1-macos.002.bin",
           "size": 8388608,
-          "sha256": "cc64f12a2fec48d4eeaacc100d0273b1cf4abc1dabb6938e75d358b4ae230ca0"
+          "sha256": "eb00560c15092ad2f9e2667b544c0cb1f916cb5cb2d42aaadcd2b50996a170cd"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.003.bin",
+          "path": "downloads/hex-0.4.1-macos.003.bin",
           "size": 8388608,
-          "sha256": "52a5ad013dbb240d7b75d1d8faa6149bbac1d372b245119294b597886db13e04"
+          "sha256": "14753b6e9c0ec2630a45110db0251770443db0aa2e89ab3f4e27afdcc1260cb0"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.004.bin",
+          "path": "downloads/hex-0.4.1-macos.004.bin",
           "size": 8388608,
-          "sha256": "adb8f476c665bc299c79a2ac8255f9bbbdd0ed0c0417af4fedc070a18aa432bf"
+          "sha256": "a52868c10ba81cd5b535527deda1788015547147857d17db9ce56ffa6de87fb6"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.005.bin",
+          "path": "downloads/hex-0.4.1-macos.005.bin",
           "size": 8388608,
-          "sha256": "aaccd56ca457e7b6e2977196c75bac14e4e23c309375bf4c837ce8b4942d619f"
+          "sha256": "8a9e6efa8520b868d39d5eed47311db8d516ce797df6e705fac894593420fa35"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.006.bin",
+          "path": "downloads/hex-0.4.1-macos.006.bin",
           "size": 8388608,
-          "sha256": "928dd4d1cfa0643a77a7971d3a2027b126a50fca5b46a9f3e1e7c3bdd9dc98bb"
+          "sha256": "92093d4bd8ecaf84f7f7055dea13e5771c6d3dbb81a6274d1f6fa2e9e1262cbf"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.007.bin",
+          "path": "downloads/hex-0.4.1-macos.007.bin",
           "size": 8388608,
-          "sha256": "1c2a8b38603db5889dd57ee4728aae21b2dc2502e452c1dd7077ef3b12aec2ca"
+          "sha256": "9d57062a4ff5c6f376fa192811781dcf5df9d834e0fae0b8655535789ab054c2"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.008.bin",
+          "path": "downloads/hex-0.4.1-macos.008.bin",
           "size": 8388608,
-          "sha256": "abba65a6eeba8392ae06b507751d4e99f601e8cd256dd5b905f6f76d679168e5"
+          "sha256": "0d63868681fc0229f080dc4ed01eb3d6ca579bae0104351e51d30afa1203339a"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.009.bin",
+          "path": "downloads/hex-0.4.1-macos.009.bin",
           "size": 8388608,
-          "sha256": "855eb85af307c50f0ba23624de78cda5eca9370f021d2ebeb8f44974be787400"
+          "sha256": "6faa1d1457a06ee6399c2eb65fb2edec4057249d805c3cf51105197aa7b5f091"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.010.bin",
+          "path": "downloads/hex-0.4.1-macos.010.bin",
           "size": 8388608,
-          "sha256": "b52566c1f76c7a997c811d85ecb5e616805d769a2a85b3934e3eae9f5d85fbba"
+          "sha256": "7f737dbb2c327bc7a7d63b1939ac71f680ddd6ea3bceb739510e4bdbe165994f"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.011.bin",
+          "path": "downloads/hex-0.4.1-macos.011.bin",
           "size": 8388608,
-          "sha256": "2bab75f2a61e6351125f6a387c6cb19992fe0d29dc1e2e19bcc68c914ad53ee3"
+          "sha256": "a740c0d55412a0640911ee2cf9e1cb42b9c10dcc84a734a17b33d103c323e5d6"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.012.bin",
+          "path": "downloads/hex-0.4.1-macos.012.bin",
           "size": 8388608,
-          "sha256": "f1b4e9804b98d449e9fb2c8d6ce206d03f25bdff5e2fd7c2ddddc5bbdbc39fb1"
+          "sha256": "e347cf5dd23580f00c089b9f633bae6b10672ff2a1126f4bb69ea50dac21ad91"
         },
         {
-          "path": "downloads/hex-0.4.0-macos.013.bin",
-          "size": 8388608,
-          "sha256": "261aa53ec92c34fe2018fc012ece8cdc9dcb7a86956ad84c0a644c6edc29869f"
-        },
-        {
-          "path": "downloads/hex-0.4.0-macos.014.bin",
-          "size": 8356771,
-          "sha256": "45f2b482f986b421756b0163bcca87cd932c8dbff978223fe0c9714021734bdc"
+          "path": "downloads/hex-0.4.1-macos.013.bin",
+          "size": 4102466,
+          "sha256": "eb5d4a308f571cc5653306fb1e94636835b7261afbee1df5fc895e86cebf47fd"
         }
       ],
-      "bundle_name": "HEX Motor Studio Customization.app"
+      "bundle_name": "HEX Motor Studio 0.4.1.app",
+      "architecture": "universal",
+      "label": "Mac \u00b7 Intel + Apple Silicon"
+    },
+    "windows": {
+      "filename": "HEX-Motor-Studio-0.4.1-Windows-x64.zip",
+      "size": 85373193,
+      "sha256": "480b339af7e8fb5f028df096a8e335b566dc62a461140efb5db198355ff9333f",
+      "chunks": [
+        {
+          "path": "downloads/hex-0.4.1-windows.000.bin",
+          "size": 8388608,
+          "sha256": "44d450bac4d760d67aad00269f9e7eb5a3e51b88cceb8810348dc953aec925b0"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.001.bin",
+          "size": 8388608,
+          "sha256": "54a0b05787ab87e73e589a14d7a356a93da05a81e1f9084617240bf8b6199574"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.002.bin",
+          "size": 8388608,
+          "sha256": "e792308a62bea2b0b831aa608d5aeb88e7362eb3633ce02ed92130bee0e911e4"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.003.bin",
+          "size": 8388608,
+          "sha256": "5bd25ee4b2fc59b0e429f48b7d323c5a7e09fd1d16dacec01aa59d859114fee1"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.004.bin",
+          "size": 8388608,
+          "sha256": "2113ee7c9d7ffe19ce52a9766c192b45b73dd2ba89a1ef08a8335f62ccbfc50c"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.005.bin",
+          "size": 8388608,
+          "sha256": "bb43a78896b9164b75220e1232b0122714e747236f9c6f0cfa08c817eb6fd67d"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.006.bin",
+          "size": 8388608,
+          "sha256": "4cdee3903897931902656ae58618250ccc7097eba34564415c4425a19b86dec8"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.007.bin",
+          "size": 8388608,
+          "sha256": "623717c8496ebcad26cde5e87d336f352c1125d51d5487964316dcab44198272"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.008.bin",
+          "size": 8388608,
+          "sha256": "f3a01523d0e5b321d10e8513ad3872bb68d535a2a4c7d671fb1ccf76f1334f0a"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.009.bin",
+          "size": 8388608,
+          "sha256": "b8b004520a28fabe650ef694a2862ce4acc535bb900327dc66319a8c5301bed8"
+        },
+        {
+          "path": "downloads/hex-0.4.1-windows.010.bin",
+          "size": 1487113,
+          "sha256": "3ec488686b394da14929889b9c39ab456d436a83909c724406d6611911a9a76c"
+        }
+      ],
+      "bundle_name": "HEX Motor Studio Windows",
+      "architecture": "x86_64",
+      "label": "Windows \u00b7 64-bit",
+      "executable": "HexMotorStudio.exe",
+      "pack": "HexMotorStudio.pck"
     }
   }
 }
