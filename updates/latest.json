@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "version": "0.4.0",
+  "platform": "macos-arm64",
+  "release_notes": "Customization Lab: 414 parts, 13 engine configurations, unrestricted XYZ placement, exact-model previews, functional connections, multiple powertrains, live statistics and undo/redo. Six vehicles and existing saves preserved.",
+  "artifacts": {
+    "macos": {
+      "filename": "HEX-Motor-Studio-Customization-macOS.zip",
+      "size": 125797283,
+      "sha256": "18aadc4078616012f4fba01962c971775741bbb57d221d1f2c4a58dbc4610797",
+      "chunks": [
+        {
+          "path": "downloads/hex-0.4.0-macos.000.bin",
+          "size": 8388608,
+          "sha256": "b4c16f934afda94b91fb11c0cfe34a2d77e6e5962347a351767149a2a5e60263"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.001.bin",
+          "size": 8388608,
+          "sha256": "e78432c9c1e29599f24faa63c57d74f8c670effee9f37262f7a0f6d03613141d"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.002.bin",
+          "size": 8388608,
+          "sha256": "cc64f12a2fec48d4eeaacc100d0273b1cf4abc1dabb6938e75d358b4ae230ca0"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.003.bin",
+          "size": 8388608,
+          "sha256": "52a5ad013dbb240d7b75d1d8faa6149bbac1d372b245119294b597886db13e04"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.004.bin",
+          "size": 8388608,
+          "sha256": "adb8f476c665bc299c79a2ac8255f9bbbdd0ed0c0417af4fedc070a18aa432bf"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.005.bin",
+          "size": 8388608,
+          "sha256": "aaccd56ca457e7b6e2977196c75bac14e4e23c309375bf4c837ce8b4942d619f"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.006.bin",
+          "size": 8388608,
+          "sha256": "928dd4d1cfa0643a77a7971d3a2027b126a50fca5b46a9f3e1e7c3bdd9dc98bb"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.007.bin",
+          "size": 8388608,
+          "sha256": "1c2a8b38603db5889dd57ee4728aae21b2dc2502e452c1dd7077ef3b12aec2ca"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.008.bin",
+          "size": 8388608,
+          "sha256": "abba65a6eeba8392ae06b507751d4e99f601e8cd256dd5b905f6f76d679168e5"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.009.bin",
+          "size": 8388608,
+          "sha256": "855eb85af307c50f0ba23624de78cda5eca9370f021d2ebeb8f44974be787400"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.010.bin",
+          "size": 8388608,
+          "sha256": "b52566c1f76c7a997c811d85ecb5e616805d769a2a85b3934e3eae9f5d85fbba"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.011.bin",
+          "size": 8388608,
+          "sha256": "2bab75f2a61e6351125f6a387c6cb19992fe0d29dc1e2e19bcc68c914ad53ee3"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.012.bin",
+          "size": 8388608,
+          "sha256": "f1b4e9804b98d449e9fb2c8d6ce206d03f25bdff5e2fd7c2ddddc5bbdbc39fb1"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.013.bin",
+          "size": 8388608,
+          "sha256": "261aa53ec92c34fe2018fc012ece8cdc9dcb7a86956ad84c0a644c6edc29869f"
+        },
+        {
+          "path": "downloads/hex-0.4.0-macos.014.bin",
+          "size": 8356771,
+          "sha256": "45f2b482f986b421756b0163bcca87cd932c8dbff978223fe0c9714021734bdc"
+        }
+      ],
+      "bundle_name": "HEX Motor Studio Customization.app"
+    }
+  }
+}
